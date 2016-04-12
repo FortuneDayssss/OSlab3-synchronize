@@ -27,8 +27,8 @@ buffer2's size is 200
 
 ####output
 #####3 charts
-1:amount of random number produced by "Producer"
-2:amount of the "sum" produced by "Producer&&Consumer"
-3:amount of "factors" counted by "Consumer"
+######1:amount of random number produced by "Producer"
+######2:amount of the "sum" produced by "Producer&&Consumer"
+######3:amount of "factors" counted by "Consumer"
 
 #####Count produce or consume times of each thread.
